@@ -1,4 +1,4 @@
-const addToNumber = (num,diff) => {
+const addToNumber = function (num,diff) {
   return num + diff;
 }
 
